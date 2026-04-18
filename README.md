@@ -32,3 +32,13 @@ The model is a decoder-only Transformer, similar in spirit to GPT-2. It processe
 -   Python 3.8+
 -   PyTorch
 -   (Optional) A sense of humor for the model's creative gibberish.
+
+### 2. Installation
+
+Clone the repository and install the required dependencies.
+
+```bash
+# Clone this repository
+git clone https://github.com/Yash-Tripath1/Shakespeare-GPT.git
+cd Shakespeare-GPT
+
